@@ -79,17 +79,19 @@ Grafana	http://192.168.130.129:30300 (admin/admin)
 Prometheus	http://192.168.130.129:31201
 
 📸 Screenshots
-All screenshots available in screenshots/ directory.
 
-#	Screenshot	Description
-1	01-nodes.txt	3 Nodes Ready
-2	02-pods.txt	Pods Running
-3	03-services.txt	Services
-4	04-ingress.txt	Ingress
-5	05-hpa.txt	HPA Auto-scaling
-| 6 | ![Prometheus Targets](screenshots/prometheus-targets.webp) | Prometheus Targets |
-| 7 | ![Grafana Dashboard](screenshots/grafana-dashboard.webp) | Grafana Dashboard |
-| 8 | ![Services & Health](screenshots/services-ingress-health.PNG) | Services & Health Check |
+All screenshots available in [`screenshots/`](screenshots/) directory.
+
+| # | Screenshot | Description |
+|---|------------|-------------|
+| 1 | [01-nodes.txt](screenshots/01-nodes.txt) | 3 Nodes Ready |
+| 2 | [02-pods.txt](screenshots/02-pods.txt) | Pods Running |
+| 3 | [03-services.txt](screenshots/03-services.txt) | Services |
+| 4 | [04-ingress.txt](screenshots/04-ingress.txt) | Ingress |
+| 5 | [05-hpa.txt](screenshots/05-hpa.txt) | HPA Auto-scaling |
+| 6 | [prometheus-targets.webp](screenshots/prometheus-targets.webp) | Prometheus Targets |
+| 7 | [grafana-dashboard.webp](screenshots/grafana-dashboard.webp) | Grafana Dashboard |
+| 8 | [services-ingress-health.PNG](screenshots/services-ingress-health.PNG) | Services & Health Check |
 
 🎯 Features
 Feature	Status
