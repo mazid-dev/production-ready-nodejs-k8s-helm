@@ -87,8 +87,9 @@ All screenshots available in screenshots/ directory.
 3	03-services.txt	Services
 4	04-ingress.txt	Ingress
 5	05-hpa.txt	HPA Auto-scaling
-6	https://screenshots/prometheus-targets.png	Prometheus Targets
-7	https://screenshots/grafana-dashboard.png	Grafana Dashboard
+| 6 | ![Prometheus Targets](screenshots/prometheus-targets.webp) | Prometheus Targets |
+| 7 | ![Grafana Dashboard](screenshots/grafana-dashboard.webp) | Grafana Dashboard |
+| 8 | ![Services & Health](screenshots/services-ingress-health.PNG) | Services & Health Check |
 
 🎯 Features
 Feature	Status
